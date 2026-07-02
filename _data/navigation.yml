@@ -1,9 +1,7 @@
 main:
-  - title: "Power BI"
-    url: /power-bi/
-  - title: "Python"
-    url: /python/
-  - title: "SQL"
-    url: /sql/
-  - title: "About"
-    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
