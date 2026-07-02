@@ -1,8 +1,5 @@
 ---
-title: "Python"
-tags:
-  - Python Project
-  - Portfolio
+title: "Python Project"
 permalink: /python/
 author_profile: true
 ---
