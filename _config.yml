@@ -17,10 +17,10 @@ url: "https://viktoria1024.github.io"
 baseurl: "/Analytics-Portfolio"
 repository: "viktoria1024/Analytics-Portfolio"
 
-title: " "
+title: "Data Analytics Portfolio"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Data Analyst porfolio.
+  Data analytics porfolio.
 atom_feed:
   hide: true
 github_username: username
