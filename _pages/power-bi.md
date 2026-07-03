@@ -3,6 +3,6 @@ title: "Power BI Project"
 permalink: /power-bi/
 author_profile: true
 <iframe>
-  assets/Portfolio.pbix
+  src="assets/Portfolio.pdf"
 </iframe>
 ---
