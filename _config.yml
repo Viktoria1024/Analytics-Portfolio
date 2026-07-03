@@ -74,7 +74,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-
+footer:
+  links: []
+  
 defaults:
   # _posts
   - scope:
