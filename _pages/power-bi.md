@@ -7,7 +7,7 @@ author_profile: true
 <iframe
   src="/Analytics-Portfolio/assets/Portfolio.pdf"
   width = "100%"
-  height = "1450">
+  height = "1480">
 </iframe>
 - 📥 [Download the Power BI (.pbix) file](/Analytics-Portfolio/assets/Portfolio.pbix)
 - 📥 [Sample data](/Analytics-Portfolio/assets/sample_data.xlsx)
