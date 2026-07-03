@@ -6,6 +6,6 @@ author_profile: true
 <iframe
   src="/Analytics-Portfolio/assets/Portfolio.pdf"
   width = "100%"
-  height = "1800">
+  height = "100%">
 </iframe>
 
