@@ -5,6 +5,7 @@ author_profile: true
 ---
 <iframe
   src="/assets/Portfolio.pdf"
-  width = "100%">
+  width = "100%"
+  height = "800">
 </iframe>
 
