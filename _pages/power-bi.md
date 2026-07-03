@@ -3,8 +3,8 @@ title: "Power BI Project"
 permalink: /power-bi/
 author_profile: true
 ---
-<iframe>
+<iframe
   src="/assets/Portfolio.pdf"
-  width = "100%"
+  width = "100%">
 </iframe>
 
