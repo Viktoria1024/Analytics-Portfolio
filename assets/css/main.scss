@@ -1,4 +1,13 @@
-.page__footer-follow,
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
 .page__footer-copyright {
-  display: none;
+  display: none !important;
+}
+
+.page__footer-follow {
+  display: none !important;
 }
