@@ -12,8 +12,8 @@ author_profile: true
 <br><br>
 <img src="/Analytics-Portfolio/assets/Slide2.JPG" alt="" width="100%" style="margin-bottom: 5px;" />
 
-<img src="/Analytics-Portfolio/assets/Slide3.JPG" alt="" width="100%" style="margin-bottom: 5px;" />
-<br><br>
+<img src="/Analytics-Portfolio/assets/Slide3.JPG" alt="" width="100%"  />
+
 <img src="/Analytics-Portfolio/assets/Slide4.JPG" alt="" width="100%"  />
 
 
