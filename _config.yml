@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Viktoria Abramtseva"
-  avatar : "/assets/images/2022-06-09-05.jpg"
+  avatar : "Analytics-Portfolio/assets/images/2022-06-09-05.jpg"
   bio    : "Data Analyst &#124; SQL, Python, Power BI, Excel"
   links:
     - label: "Website"
