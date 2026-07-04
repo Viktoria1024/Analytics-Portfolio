@@ -9,11 +9,11 @@ author_profile: true
 <div style="background-color: #555555;border-radius: 15px;padding: 15px;margin: 5px;width: 250px;text-align: center"><strong><a style="color: white;text-decoration: none" href="/Analytics-Portfolio/assets/sample_data.xlsx" target="_blank" rel="noopener">Sample Data</a></strong></div>
 </div>
 <img src="/Analytics-Portfolio/assets/Slide1.JPG" alt="" width="100%"  />
-<br>
+<\br>
 <img src="/Analytics-Portfolio/assets/Slide2.JPG" alt="" width="100%"  />
-<br>
+<\br>
 <img src="/Analytics-Portfolio/assets/Slide3.JPG" alt="" width="100%"  />
-<br>
+<\br>
 <img src="/Analytics-Portfolio/assets/Slide4.JPG" alt="" width="100%"  />
 
 
