@@ -12,6 +12,13 @@
   display: none !important;
 }
 
-.author__urls-heading {
+.author__urls-wrapper .btn {
   display: none;
+}
+
+.author__urls {
+  display: block !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
